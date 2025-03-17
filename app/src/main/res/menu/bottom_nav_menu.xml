@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/nav_fixtures"
+        android:icon="@drawable/ic_fixtures"
+        android:title="Fikstür" />
+    <item
+        android:id="@+id/nav_players"
+        android:icon="@drawable/ic_players"
+        android:title="Kadro" />
+    <item
+        android:id="@+id/nav_stats"
+        android:icon="@drawable/ic_stats"
+        android:title="İstatistikler" />
+    <item
+        android:id="@+id/nav_fan_wall"
+        android:icon="@drawable/ic_fan_wall"
+        android:title="Taraftar" />
+</menu>
